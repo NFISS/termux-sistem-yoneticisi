@@ -1,7 +1,7 @@
 #!/data/data/com.termux/files/usr/bin/bash
 # ╔══════════════════════════════════════════════════════════════╗
 # ║    TERMUX SİSTEM YÖNETİCİSİ v5.0 - NİHAİ ULTRA SÜRÜM      ║
-# ║    Samsung Galaxy A34 5G — 53×28 Terminal Optimizasyonlu    ║
+# ║    Samsung Galaxy — 53×28 Terminal Optimizasyonlu    ║
 # ║    ✅ 255 Fonksiyon | 11 Modül | 200+ CLI Komutu           ║
 # ║    Tüm sürümlerin en iyi özellikleri birleştirildi          ║
 # ╚══════════════════════════════════════════════════════════════╝

@@ -1,13 +1,13 @@
-# Termux Samsung Galaxy Sistem Yönetimi v5.0 🚀
+# Samsung Galaxy Termux Sistem Yönetimi v5.0 🚀
 
 ![Version](https://img.shields.io/badge/sürüm-5.0-blue)
 ![Platform](https://img.shields.io/badge/platform-Termux-green)
-![Device](https://img.shields.io/badge/cihaz-Samsung%20Galaxy%20A34%205G-purple)
+![Device](https://img.shields.io/badge/cihaz-Samsung%20Galaxy-purple)
 ![Functions](https://img.shields.io/badge/fonksiyon-255%2B-orange)
 ![Size](https://img.shields.io/badge/boyut-176KB-brightgreen)
 ![License](https://img.shields.io/badge/lisans-MIT-blue)
 
-## 📱 Samsung Galaxy A34 5G İÇİN ÖZEL OPTİMİZE EDİLMİŞ TERMUX YÖNETİCİSİ
+## 📱 Samsung Galaxy Termux İçin Özel Optimize Edilmiş Sistem Yöneticisi
 
 ### 🎯 TOPLAM 255+ FONKSİYON | 11 ANA MODÜL
 
@@ -26,17 +26,17 @@
 | 📖 Yardım | 1 | detaylı dokümantasyon |
 | **TOPLAM** | **255+** | |
 
-## 🎯 SAMSUNG GALAXY A34 5G ÖZEL OPTİMİZASYONLAR
+## 🎯 SAMSUNG GALAXY ÖZEL OPTİMİZASYONLAR
 
 | Özellik | Açıklama | Komut |
 |---------|----------|-------|
 | ✅ CPU Governor Yönetimi | Performans/güç tasarrufu ayarı | `galaxy-opt` |
 | ✅ Isıl Sensör Takibi | Cihaz sıcaklığı anlık kontrol | `isil-kontrol` |
 | ✅ Performans Benchmark | CPU/RAM hız testi | `performans-testi` |
-| ✅ Ekran Parlaklığı | A34 ekran parlaklık kontrolü | `ekran-parlaklik` |
+| ✅ Ekran Parlaklığı | Samsung ekran parlaklık kontrolü | `ekran-parlaklik` |
 | ✅ Pil Optimizasyonu | Detaylı pil durumu ve yönetimi | `pil-detay` |
 
 ## ⚡ TEK SATIRDA KURULUM
 
 ```bash
-curl -L bit.ly/termux-a34 | bash
+curl -L bit.ly/samsung-termux | bash
